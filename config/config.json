@@ -1,0 +1,81 @@
+{
+  "preprocessing": {
+    "missing_values": {
+      "numeric_columns": [
+        "age",
+        "resting bp s",
+        "cholesterol",
+        "max heart rate",
+        "oldpeak"
+      ],
+      "categorical_columns": [
+        "sex_0",
+        "sex_1",
+        "chest pain type_1",
+        "chest pain type_2",
+        "chest pain type_3",
+        "chest pain type_4",
+        "fasting blood sugar_0",
+        "fasting blood sugar_1",
+        "resting ecg_0",
+        "resting ecg_1",
+        "resting ecg_2",
+        "exercise angina_0",
+        "exercise angina_1",
+        "ST slope_0",
+        "ST slope_1",
+        "ST slope_2",
+        "ST slope_3"
+      ]
+    }
+  },
+  "feature_engineering": {
+    "numeric_features": [
+      "age",
+      "resting bp s",
+      "cholesterol",
+      "max heart rate",
+      "oldpeak"
+    ],
+    "categorical_features": [
+      "sex_0",
+      "sex_1",
+      "chest pain type_1",
+      "chest pain type_2",
+      "chest pain type_3",
+      "chest pain type_4",
+      "fasting blood sugar_0",
+      "fasting blood sugar_1",
+      "resting ecg_0",
+      "resting ecg_1",
+      "resting ecg_2",
+      "exercise angina_0",
+      "exercise angina_1",
+      "ST slope_0",
+      "ST slope_1",
+      "ST slope_2",
+      "ST slope_3"
+    ]
+  },
+  "neural_network": {
+    "layers": [
+      {"units": 64, "activation": "relu", "input_shape": [30]},
+      {"units": 32, "activation": "relu"},
+      {"units": 1, "activation": "sigmoid"}
+    ],
+    "optimizer": "adam",
+    "loss_function": "binary_crossentropy",
+    "metrics": ["accuracy"],
+    "epochs": 50,
+    "batch_size": 32
+  },
+  "random_forest": {
+    "param_grid": {
+      "n_estimators": [50, 100, 200],
+      "max_depth": [null, 10, 20, 30],
+      "min_samples_split": [2, 5, 10],
+      "min_samples_leaf": [1, 2, 4]
+    }
+  }
+}
+

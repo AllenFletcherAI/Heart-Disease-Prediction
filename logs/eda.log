@@ -1,0 +1,209 @@
+2024-08-09 13:50:57,928 - INFO - Logging configured.
+2024-08-09 13:50:57,933 - INFO - Data loaded successfully from data/processed_heart_disease.csv
+2024-08-09 13:50:58,283 - INFO - Histogram for age saved.
+2024-08-09 13:50:58,405 - INFO - Histogram for resting bp s saved.
+2024-08-09 13:50:58,522 - INFO - Histogram for cholesterol saved.
+2024-08-09 13:50:58,632 - INFO - Histogram for max heart rate saved.
+2024-08-09 13:50:58,745 - INFO - Histogram for oldpeak saved.
+2024-08-09 13:50:58,761 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:58,765 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:58,806 - INFO - Countplot for sex_1 saved.
+2024-08-09 13:50:58,820 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:58,824 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:58,867 - INFO - Countplot for chest pain type_2 saved.
+2024-08-09 13:50:58,941 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:58,945 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:58,987 - INFO - Countplot for chest pain type_3 saved.
+2024-08-09 13:50:59,001 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,005 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,049 - INFO - Countplot for chest pain type_4 saved.
+2024-08-09 13:50:59,063 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,067 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,109 - INFO - Countplot for fasting blood sugar_1 saved.
+2024-08-09 13:50:59,123 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,127 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,171 - INFO - Countplot for resting ecg_1 saved.
+2024-08-09 13:50:59,184 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,188 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,230 - INFO - Countplot for resting ecg_2 saved.
+2024-08-09 13:50:59,245 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,249 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,296 - INFO - Countplot for exercise angina_1 saved.
+2024-08-09 13:50:59,309 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,313 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,359 - INFO - Countplot for ST slope_2 saved.
+2024-08-09 13:50:59,375 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,379 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,423 - INFO - Countplot for ST slope_3 saved.
+2024-08-09 13:50:59,438 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,442 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,495 - INFO - Boxplot for age by target saved.
+2024-08-09 13:50:59,510 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,515 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,566 - INFO - Boxplot for resting bp s by target saved.
+2024-08-09 13:50:59,579 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,583 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,637 - INFO - Boxplot for cholesterol by target saved.
+2024-08-09 13:50:59,652 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,656 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,706 - INFO - Boxplot for max heart rate by target saved.
+2024-08-09 13:50:59,720 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,725 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:50:59,779 - INFO - Boxplot for oldpeak by target saved.
+2024-08-09 13:57:20,471 - INFO - Logging configured.
+2024-08-09 13:57:20,475 - INFO - Data loaded successfully from data/processed_heart_disease.csv
+2024-08-09 13:57:20,815 - INFO - Histogram for age saved.
+2024-08-09 13:57:20,943 - INFO - Histogram for resting bp s saved.
+2024-08-09 13:57:21,065 - INFO - Histogram for cholesterol saved.
+2024-08-09 13:57:21,177 - INFO - Histogram for max heart rate saved.
+2024-08-09 13:57:21,289 - INFO - Histogram for oldpeak saved.
+2024-08-09 13:57:21,306 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,310 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,354 - INFO - Countplot for sex_1 saved.
+2024-08-09 13:57:21,369 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,373 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,427 - INFO - Countplot for chest pain type_2 saved.
+2024-08-09 13:57:21,508 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,512 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,555 - INFO - Countplot for chest pain type_3 saved.
+2024-08-09 13:57:21,569 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,573 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,619 - INFO - Countplot for chest pain type_4 saved.
+2024-08-09 13:57:21,634 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,638 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,682 - INFO - Countplot for fasting blood sugar_1 saved.
+2024-08-09 13:57:21,697 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,701 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,744 - INFO - Countplot for resting ecg_1 saved.
+2024-08-09 13:57:21,759 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,763 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,806 - INFO - Countplot for resting ecg_2 saved.
+2024-08-09 13:57:21,821 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,825 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,873 - INFO - Countplot for exercise angina_1 saved.
+2024-08-09 13:57:21,888 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,892 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,938 - INFO - Countplot for ST slope_2 saved.
+2024-08-09 13:57:21,953 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:21,957 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,001 - INFO - Countplot for ST slope_3 saved.
+2024-08-09 13:57:22,016 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,021 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,072 - INFO - Boxplot for age by target saved.
+2024-08-09 13:57:22,086 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,091 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,144 - INFO - Boxplot for resting bp s by target saved.
+2024-08-09 13:57:22,158 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,162 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,216 - INFO - Boxplot for cholesterol by target saved.
+2024-08-09 13:57:22,230 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,234 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,285 - INFO - Boxplot for max heart rate by target saved.
+2024-08-09 13:57:22,300 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,305 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:22,359 - INFO - Boxplot for oldpeak by target saved.
+2024-08-09 13:57:41,673 - INFO - Logging configured.
+2024-08-09 13:57:41,677 - INFO - Data loaded successfully from data/processed_heart_disease.csv
+2024-08-09 13:57:42,016 - INFO - Histogram for age saved.
+2024-08-09 13:57:42,153 - INFO - Histogram for resting bp s saved.
+2024-08-09 13:57:42,284 - INFO - Histogram for cholesterol saved.
+2024-08-09 13:57:42,404 - INFO - Histogram for max heart rate saved.
+2024-08-09 13:57:42,529 - INFO - Histogram for oldpeak saved.
+2024-08-09 13:57:42,545 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,550 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,601 - INFO - Countplot for sex_1 saved.
+2024-08-09 13:57:42,614 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,618 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,661 - INFO - Countplot for chest pain type_2 saved.
+2024-08-09 13:57:42,734 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,738 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,779 - INFO - Countplot for chest pain type_3 saved.
+2024-08-09 13:57:42,793 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,797 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,841 - INFO - Countplot for chest pain type_4 saved.
+2024-08-09 13:57:42,855 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,860 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,902 - INFO - Countplot for fasting blood sugar_1 saved.
+2024-08-09 13:57:42,916 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,920 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,963 - INFO - Countplot for resting ecg_1 saved.
+2024-08-09 13:57:42,977 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:42,981 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,021 - INFO - Countplot for resting ecg_2 saved.
+2024-08-09 13:57:43,037 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,040 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,086 - INFO - Countplot for exercise angina_1 saved.
+2024-08-09 13:57:43,100 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,104 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,148 - INFO - Countplot for ST slope_2 saved.
+2024-08-09 13:57:43,164 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,168 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,210 - INFO - Countplot for ST slope_3 saved.
+2024-08-09 13:57:43,223 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,227 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,274 - INFO - Boxplot for age by target saved.
+2024-08-09 13:57:43,288 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,293 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,342 - INFO - Boxplot for resting bp s by target saved.
+2024-08-09 13:57:43,355 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,360 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,411 - INFO - Boxplot for cholesterol by target saved.
+2024-08-09 13:57:43,425 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,429 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,479 - INFO - Boxplot for max heart rate by target saved.
+2024-08-09 13:57:43,492 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,497 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 13:57:43,554 - INFO - Boxplot for oldpeak by target saved.
+2024-08-09 14:05:37,281 - INFO - Logging configured.
+2024-08-09 14:05:37,282 - INFO - Plot directory eda/plots is ready.
+2024-08-09 14:05:37,287 - INFO - Data loaded successfully from data/processed_heart_disease.csv
+2024-08-09 14:05:37,637 - INFO - Histogram for age saved.
+2024-08-09 14:05:37,758 - INFO - Histogram for resting bp s saved.
+2024-08-09 14:05:37,874 - INFO - Histogram for cholesterol saved.
+2024-08-09 14:05:37,980 - INFO - Histogram for max heart rate saved.
+2024-08-09 14:05:38,088 - INFO - Histogram for oldpeak saved.
+2024-08-09 14:05:38,104 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,108 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,149 - INFO - Countplot for sex_1 saved.
+2024-08-09 14:05:38,163 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,166 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,209 - INFO - Countplot for chest pain type_2 saved.
+2024-08-09 14:05:38,280 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,283 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,325 - INFO - Countplot for chest pain type_3 saved.
+2024-08-09 14:05:38,338 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,342 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,386 - INFO - Countplot for chest pain type_4 saved.
+2024-08-09 14:05:38,400 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,404 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,446 - INFO - Countplot for fasting blood sugar_1 saved.
+2024-08-09 14:05:38,459 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,462 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,505 - INFO - Countplot for resting ecg_1 saved.
+2024-08-09 14:05:38,519 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,522 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,563 - INFO - Countplot for resting ecg_2 saved.
+2024-08-09 14:05:38,577 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,580 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,627 - INFO - Countplot for exercise angina_1 saved.
+2024-08-09 14:05:38,641 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,644 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,688 - INFO - Countplot for ST slope_2 saved.
+2024-08-09 14:05:38,703 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,706 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,755 - INFO - Countplot for ST slope_3 saved.
+2024-08-09 14:05:38,774 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,778 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,826 - INFO - Boxplot for age by target saved.
+2024-08-09 14:05:38,840 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,844 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,893 - INFO - Boxplot for resting bp s by target saved.
+2024-08-09 14:05:38,906 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,910 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,961 - INFO - Boxplot for cholesterol by target saved.
+2024-08-09 14:05:38,975 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:38,979 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:39,027 - INFO - Boxplot for max heart rate by target saved.
+2024-08-09 14:05:39,041 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:39,045 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-08-09 14:05:39,097 - INFO - Boxplot for oldpeak by target saved.

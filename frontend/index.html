@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Disease Prediction</title>
+    <link rel="stylesheet" href="style.css"> <!-- Correct path -->
+</head>
+<body>
+    <header>
+        <h1>Heart Disease Prediction</h1>
+    </header>
+
+    <main class="container">
+        <form id="predict-form"> <!-- Updated form ID to match JavaScript -->
+            <h2>Enter Patient Data</h2>
+            <div class="form-group">
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" required>
+            </div>
+            <div class="form-group">
+                <label for="sex">Sex:</label>
+                <select id="sex" name="sex" required>
+                    <option value="1">Male</option>
+                    <option value="0">Female</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="chest_pain">Chest Pain Type:</label>
+                <select id="chest_pain" name="chest_pain" required>
+                    <option value="1">Typical Angina</option>
+                    <option value="2">Atypical Angina</option>
+                    <option value="3">Non-Anginal Pain</option>
+                    <option value="4">Asymptomatic</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="resting_bp">Resting Blood Pressure (in mm Hg):</label>
+                <input type="number" id="resting_bp" name="resting_bp" required>
+            </div>
+            <div class="form-group">
+                <label for="cholesterol">Serum Cholesterol (in mg/dl):</label>
+                <input type="number" id="cholesterol" name="cholesterol" required>
+            </div>
+            <div class="form-group">
+                <label for="fasting_blood_sugar">Fasting Blood Sugar > 120 mg/dl:</label>
+                <select id="fasting_blood_sugar" name="fasting_blood_sugar" required>
+                    <option value="1">True</option>
+                    <option value="0">False</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="resting_ecg">Resting Electrocardiogram Results:</label>
+                <select id="resting_ecg" name="resting_ecg" required>
+                    <option value="0">Normal</option>
+                    <option value="1">ST-T Wave Abnormality</option>
+                    <option value="2">Left Ventricular Hypertrophy</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="max_heart_rate">Maximum Heart Rate Achieved:</label>
+                <input type="number" id="max_heart_rate" name="max_heart_rate" required>
+            </div>
+            <div class="form-group">
+                <label for="exercise_angina">Exercise Induced Angina:</label>
+                <select id="exercise_angina" name="exercise_angina" required>
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="oldpeak">Oldpeak (depression in ST segment):</label>
+                <input type="number" id="oldpeak" name="oldpeak" step="0.1" required>
+            </div>
+            <div class="form-group">
+                <label for="st_slope">Slope of the Peak Exercise ST Segment:</label>
+                <select id="st_slope" name="st_slope" required>
+                    <option value="1">Upsloping</option>
+                    <option value="2">Flat</option>
+                    <option value="3">Downsloping</option>
+                </select>
+            </div>
+            <button type="submit">Predict</button>
+        </form>
+
+        <div id="result" class="result-text"></div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Heart Disease Prediction Application by Allen Fletcher</p>
+        <p>Refresh the page to record new predictions.</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- Ensure this path is also correct -->
+</body>
+</html>
+

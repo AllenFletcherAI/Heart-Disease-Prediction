@@ -1,0 +1,13 @@
+2024-08-09 14:37:43,796 - INFO - Logging configured.
+2024-08-09 14:37:43,796 - INFO - Configuration loaded from config/config.json
+2024-08-09 14:37:43,798 - INFO - Data loaded successfully from data/heart_disease.csv
+2024-08-09 14:37:43,803 - INFO - Feature engineering completed.
+2024-08-09 14:37:43,807 - INFO - Processed data saved to data/processed_heart_disease.csv
+2024-08-09 15:02:25,944 - INFO - Logging configured.
+2024-08-09 15:02:25,945 - INFO - Configuration loaded from config/config.json
+2024-08-09 15:02:25,945 - ERROR - File not found: data/processed_data.csv
+2024-08-09 15:04:08,698 - INFO - Logging configured.
+2024-08-09 15:04:08,699 - INFO - Configuration loaded from config/config.json
+2024-08-09 15:04:08,702 - INFO - Data loaded successfully from data/processed_heart_disease.csv
+2024-08-09 15:04:08,705 - INFO - Feature engineering completed.
+2024-08-09 15:04:08,717 - INFO - Processed data saved to data/feature_engineered_data.csv

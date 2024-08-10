@@ -1,0 +1,13 @@
+python scripts/preprocessing.py --input data/heart_disease.csv --output data/processed_heart_disease.csv --config config/config.json --log_dir logs
+
+python scripts/feature_engineering.py --input data/processed_heart_disease.csv --output data/feature_engineered_data.csv --config config/config.json --log_dir logs
+
+python scripts/datasplit.py --input data/feature_engineered_data --output_dir data/split_data --config config/config.json --log_dir logs
+
+python scripts/logistic_regression.py --data_dir data/split_data --model_dir models --log_dir logs --log_level INFO --max_iter 1000
+
+python scripts/neural_network_training.py --data_dir=data/split_data --model_dir=models --log_dir=logs --config=config/config.json --log_level=DEBUG
+
+python scripts/random_forest.py --data_dir=data/split_data --model_dir=models --log_dir=logs --config=config/config.json --log_level=DEBUG
+
+python3 app.py

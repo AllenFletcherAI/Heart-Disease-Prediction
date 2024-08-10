@@ -1,0 +1,361 @@
+2024-08-09 23:05:15,065 - INFO - Logging configured.
+2024-08-09 23:05:15,065 - INFO - Configuration loaded.
+2024-08-09 23:05:15,070 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:05:15,072 - ERROR - An error occurred: A given column is not a column of the dataframe
+2024-08-09 23:06:24,121 - INFO - Logging configured.
+2024-08-09 23:06:24,121 - INFO - Configuration loaded.
+2024-08-09 23:06:24,126 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:06:24,126 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:06:24,127 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:06:24,128 - ERROR - An error occurred: A given column is not a column of the dataframe
+2024-08-09 23:07:07,861 - INFO - Logging configured.
+2024-08-09 23:07:07,861 - INFO - Configuration loaded.
+2024-08-09 23:07:07,866 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:07:07,866 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:07:07,866 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:07:07,869 - ERROR - An error occurred: A given column is not a column of the dataframe
+2024-08-09 23:09:02,352 - INFO - Logging configured.
+2024-08-09 23:09:02,352 - INFO - Configuration loaded.
+2024-08-09 23:09:02,358 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:09:02,358 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:09:02,358 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:09:02,360 - WARNING - Column 'sex' is missing in the dataset.
+2024-08-09 23:09:02,360 - WARNING - Column 'chest pain type' is missing in the dataset.
+2024-08-09 23:09:02,360 - WARNING - Column 'fasting blood sugar' is missing in the dataset.
+2024-08-09 23:09:02,360 - WARNING - Column 'resting ecg' is missing in the dataset.
+2024-08-09 23:09:02,360 - WARNING - Column 'exercise angina' is missing in the dataset.
+2024-08-09 23:09:02,360 - WARNING - Column 'ST slope' is missing in the dataset.
+2024-08-09 23:09:02,361 - ERROR - Error during transformation: A given column is not a column of the dataframe
+2024-08-09 23:09:02,361 - ERROR - An error occurred: A given column is not a column of the dataframe
+2024-08-09 23:10:26,597 - INFO - Logging configured.
+2024-08-09 23:10:26,597 - INFO - Configuration loaded.
+2024-08-09 23:10:26,603 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:10:26,603 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:10:26,603 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:10:26,605 - WARNING - Column 'sex' is missing in the dataset.
+2024-08-09 23:10:26,605 - WARNING - Column 'chest pain type' is missing in the dataset.
+2024-08-09 23:10:26,605 - WARNING - Column 'fasting blood sugar' is missing in the dataset.
+2024-08-09 23:10:26,605 - WARNING - Column 'resting ecg' is missing in the dataset.
+2024-08-09 23:10:26,605 - WARNING - Column 'exercise angina' is missing in the dataset.
+2024-08-09 23:10:26,605 - WARNING - Column 'ST slope' is missing in the dataset.
+2024-08-09 23:10:26,605 - ERROR - Error during transformation: A given column is not a column of the dataframe
+2024-08-09 23:10:26,606 - ERROR - An error occurred: A given column is not a column of the dataframe
+2024-08-09 23:14:03,715 - INFO - Logging configured.
+2024-08-09 23:14:03,715 - INFO - Configuration loaded.
+2024-08-09 23:14:03,721 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:14:03,721 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:14:03,721 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:14:05,596 - INFO - Neural network model built.
+2024-08-09 23:14:07,143 - INFO - Model training completed.
+2024-08-09 23:14:07,183 - INFO - Model evaluation completed. Accuracy: 0.8936
+2024-08-09 23:14:07,186 - DEBUG - Creating converter from 5 to 3
+2024-08-09 23:14:07,194 - INFO - Model saved to models/neural_network_model.h5
+2024-08-09 23:17:00,290 - INFO - Logging configured.
+2024-08-09 23:17:00,290 - INFO - Configuration loaded.
+2024-08-09 23:17:00,296 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:17:00,296 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:17:00,296 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:17:01,960 - INFO - Neural network model built.
+2024-08-09 23:17:02,764 - INFO - Model training completed.
+2024-08-09 23:17:02,805 - INFO - Model evaluation completed. Accuracy: 0.8768
+2024-08-09 23:17:02,807 - DEBUG - Creating converter from 5 to 3
+2024-08-09 23:17:02,815 - INFO - Model saved to models/neural_network_model.h5
+2024-08-09 23:19:03,878 - INFO - Logging configured.
+2024-08-09 23:19:03,878 - INFO - Configuration loaded.
+2024-08-09 23:20:08,311 - INFO - Logging configured.
+2024-08-09 23:20:08,311 - INFO - Configuration loaded.
+2024-08-09 23:20:08,317 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:20:08,317 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:20:08,317 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:20:09,982 - INFO - Neural network model built.
+2024-08-09 23:20:11,259 - INFO - Model training completed.
+2024-08-09 23:20:11,301 - INFO - Model evaluation completed. Accuracy: 0.8964
+2024-08-09 23:20:11,302 - DEBUG - Creating converter from 5 to 3
+2024-08-09 23:20:11,309 - INFO - Model saved to models/neural_network_model.h5
+2024-08-09 23:24:00,968 - INFO - Logging configured.
+2024-08-09 23:24:00,968 - INFO - Configuration loaded.
+2024-08-09 23:24:00,973 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-09 23:24:00,973 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:24:00,973 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-09 23:24:02,637 - INFO - Neural network model built.
+2024-08-09 23:24:03,645 - INFO - Model training completed.
+2024-08-09 23:24:03,691 - INFO - Model evaluation completed. Accuracy: 0.8908
+2024-08-09 23:24:03,693 - DEBUG - Creating converter from 5 to 3
+2024-08-09 23:24:03,701 - INFO - Model saved to models/neural_network_model.h5
+2024-08-10 08:58:31,155 - INFO - Logging configured.
+2024-08-10 08:58:31,156 - INFO - Configuration loaded.
+2024-08-10 08:58:31,162 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 08:58:31,162 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 08:58:31,162 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 08:58:32,852 - INFO - Neural network model built.
+2024-08-10 08:58:33,778 - INFO - Model training completed.
+2024-08-10 08:58:33,930 - INFO - Model evaluation completed. Accuracy: 0.8880
+2024-08-10 08:58:33,930 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.87      0.87      0.87       154
+     Class 1       0.90      0.90      0.90       203
+
+    accuracy                           0.89       357
+   macro avg       0.89      0.89      0.89       357
+weighted avg       0.89      0.89      0.89       357
+
+2024-08-10 08:58:33,933 - DEBUG - Creating converter from 5 to 3
+2024-08-10 08:58:33,941 - INFO - Model saved to models/neural_network_model.h5
+2024-08-10 09:01:18,821 - INFO - Logging configured.
+2024-08-10 09:01:18,821 - INFO - Configuration loaded.
+2024-08-10 09:01:18,827 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 09:01:18,827 - INFO - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:01:18,827 - INFO - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:01:18,849 - ERROR - An error occurred: name 'tune_hyperparameters' is not defined
+2024-08-10 09:09:03,404 - INFO - Logging configured.
+2024-08-10 09:09:03,404 - INFO - Configuration loaded.
+2024-08-10 09:09:03,410 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 09:09:03,410 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:09:03,410 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:09:31,079 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x78202c31ee60>
+2024-08-10 09:09:31,079 - ERROR - An error occurred: name 'cross_validate_model' is not defined
+2024-08-10 09:10:34,323 - INFO - Logging configured.
+2024-08-10 09:10:34,324 - INFO - Configuration loaded.
+2024-08-10 09:10:34,329 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 09:10:34,329 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:10:34,329 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:10:34,367 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x712628994040>
+2024-08-10 09:10:34,367 - ERROR - An error occurred: build_model() takes 1 positional argument but 2 were given
+2024-08-10 09:12:31,792 - INFO - Logging configured.
+2024-08-10 09:12:31,792 - INFO - Configuration loaded.
+2024-08-10 09:12:31,798 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 09:12:31,798 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:12:31,798 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:12:31,843 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7664edb2be80>
+2024-08-10 09:12:34,739 - INFO - Model training completed.
+2024-08-10 09:12:34,896 - INFO - Model evaluation completed. Accuracy: 0.8683
+2024-08-10 09:12:34,896 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.88      0.80      0.84       154
+     Class 1       0.86      0.92      0.89       203
+
+    accuracy                           0.87       357
+   macro avg       0.87      0.86      0.86       357
+weighted avg       0.87      0.87      0.87       357
+
+2024-08-10 09:12:34,912 - INFO - Model saved to models/neural_network_model.h5
+2024-08-10 09:18:13,652 - INFO - Logging configured.
+2024-08-10 09:18:13,652 - INFO - Configuration loaded.
+2024-08-10 09:18:13,658 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 09:18:13,658 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:18:13,659 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 09:18:13,702 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7fd411e1f460>
+2024-08-10 09:18:16,825 - INFO - Model training completed.
+2024-08-10 09:18:16,982 - INFO - Model evaluation completed. Accuracy: 0.8768
+2024-08-10 09:18:16,982 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.85      0.87      0.86       154
+     Class 1       0.90      0.88      0.89       203
+
+    accuracy                           0.88       357
+   macro avg       0.87      0.88      0.87       357
+weighted avg       0.88      0.88      0.88       357
+
+2024-08-10 09:18:16,997 - INFO - Model saved to models/neural_network_model.h5
+2024-08-10 10:54:51,744 - INFO - Logging configured.
+2024-08-10 10:54:51,745 - INFO - Configuration loaded.
+2024-08-10 10:54:51,751 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 10:54:51,751 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 10:54:51,751 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 10:54:51,792 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7fb4bb32da20>
+2024-08-10 10:54:54,670 - INFO - Model training completed.
+2024-08-10 10:54:54,801 - INFO - Model evaluation completed. Accuracy: 0.8711
+2024-08-10 10:54:54,801 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.86      0.84      0.85       154
+     Class 1       0.88      0.90      0.89       203
+
+    accuracy                           0.87       357
+   macro avg       0.87      0.87      0.87       357
+weighted avg       0.87      0.87      0.87       357
+
+2024-08-10 10:54:55,163 - WARNING - Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+2024-08-10 10:54:55,332 - INFO - Assets written to: models/neural_network_model/assets
+2024-08-10 10:54:55,357 - INFO - Model saved to models/neural_network_model
+2024-08-10 10:57:00,257 - INFO - Logging configured.
+2024-08-10 10:57:00,257 - INFO - Configuration loaded.
+2024-08-10 10:57:00,263 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 10:57:00,263 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 10:57:00,263 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 10:57:00,300 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x71261a833430>
+2024-08-10 10:57:03,753 - INFO - Model training completed.
+2024-08-10 10:57:03,799 - ERROR - Error evaluating model: too many values to unpack (expected 2)
+2024-08-10 10:57:03,799 - ERROR - An error occurred: too many values to unpack (expected 2)
+2024-08-10 10:59:26,556 - INFO - Logging configured.
+2024-08-10 10:59:26,556 - INFO - Configuration loaded.
+2024-08-10 10:59:26,562 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 10:59:26,576 - DEBUG - Columns in X_train: ['num__age' 'num__resting bp s' 'num__cholesterol' 'num__max heart rate'
+ 'num__oldpeak' 'cat__sex_1_1.0' 'cat__exercise angina_1_1.0'
+ 'cat__ST slope_0_1.0' 'cat__ST slope_2_1.0' 'cat__resting ecg_0_1.0'
+ 'cat__fasting blood sugar_1_1.0' 'cat__chest pain type_2_1.0'
+ 'cat__sex_0_1.0' 'cat__chest pain type_4_1.0' 'cat__ST slope_1_1.0'
+ 'cat__exercise angina_0_1.0' 'cat__chest pain type_1_1.0'
+ 'cat__resting ecg_2_1.0' 'cat__fasting blood sugar_0_1.0'
+ 'cat__chest pain type_3_1.0' 'cat__ST slope_3_1.0'
+ 'cat__resting ecg_1_1.0']
+2024-08-10 10:59:26,576 - DEBUG - Columns in X_test: ['num__age' 'num__resting bp s' 'num__cholesterol' 'num__max heart rate'
+ 'num__oldpeak' 'cat__sex_1_1.0' 'cat__exercise angina_1_1.0'
+ 'cat__ST slope_0_1.0' 'cat__ST slope_2_1.0' 'cat__resting ecg_0_1.0'
+ 'cat__fasting blood sugar_1_1.0' 'cat__chest pain type_2_1.0'
+ 'cat__sex_0_1.0' 'cat__chest pain type_4_1.0' 'cat__ST slope_1_1.0'
+ 'cat__exercise angina_0_1.0' 'cat__chest pain type_1_1.0'
+ 'cat__resting ecg_2_1.0' 'cat__fasting blood sugar_0_1.0'
+ 'cat__chest pain type_3_1.0' 'cat__ST slope_3_1.0'
+ 'cat__resting ecg_1_1.0']
+2024-08-10 10:59:28,345 - WARNING - Inconsistent references when loading the checkpoint into this object graph. For example, in the saved checkpoint object, `model.layer.weight` and `model.layer_copy.weight` reference the same variable, while in the current object these are two different variables. The referenced variables are:(<keras.layers.core.dense.Dense object at 0x7fed2a65b2e0> and <keras.layers.regularization.dropout.Dropout object at 0x7fed2a65a3e0>).
+2024-08-10 10:59:28,345 - WARNING - Inconsistent references when loading the checkpoint into this object graph. For example, in the saved checkpoint object, `model.layer.weight` and `model.layer_copy.weight` reference the same variable, while in the current object these are two different variables. The referenced variables are:(<keras.layers.core.dense.Dense object at 0x7fed2a65aa10> and <keras.layers.core.dense.Dense object at 0x7fed2a65b2e0>).
+2024-08-10 10:59:28,350 - ERROR - An error occurred: Received incompatible tensor with shape (192,) when attempting to restore variable with shape (32,) and name layer_with_weights-0/bias/.ATTRIBUTES/VARIABLE_VALUE.
+2024-08-10 10:59:28,441 - WARNING - Detecting that an object or model or tf.train.Checkpoint is being deleted with unrestored values. See the following logs for the specific values in question. To silence these warnings, use `status.expect_partial()`. See https://www.tensorflow.org/api_docs/python/tf/train/Checkpoint#restorefor details about the status object returned by the restore function.
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).layer_with_weights-3.kernel
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).layer_with_weights-3.bias
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.1
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.2
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.3
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.4
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.5
+2024-08-10 10:59:28,441 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.6
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.7
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.8
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.9
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.10
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.11
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.12
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.13
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.14
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.15
+2024-08-10 10:59:28,442 - WARNING - Value in checkpoint could not be found in the restored object: (root).optimizer._variables.16
+2024-08-10 11:01:52,322 - INFO - Logging configured.
+2024-08-10 11:01:52,322 - INFO - Configuration loaded.
+2024-08-10 11:01:52,328 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 11:01:52,328 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:01:52,328 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:01:52,367 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7af74125afe0>
+2024-08-10 11:01:55,666 - INFO - Model training completed.
+2024-08-10 11:01:56,222 - INFO - Model evaluation completed. Accuracy: 0.8824, AUC: 0.9391
+2024-08-10 11:01:56,222 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.83      0.91      0.87       154
+     Class 1       0.93      0.86      0.89       203
+
+    accuracy                           0.88       357
+   macro avg       0.88      0.89      0.88       357
+weighted avg       0.89      0.88      0.88       357
+
+2024-08-10 11:01:56,616 - WARNING - Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+2024-08-10 11:01:56,803 - INFO - Assets written to: models/neural_network_model/assets
+2024-08-10 11:01:56,835 - INFO - Model saved to models/neural_network_model
+2024-08-10 11:06:15,650 - INFO - Logging configured.
+2024-08-10 11:06:15,650 - INFO - Configuration loaded.
+2024-08-10 11:06:15,656 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 11:06:15,656 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:06:15,656 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:06:15,693 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x728cfe4701c0>
+2024-08-10 11:06:19,098 - INFO - Model training completed.
+2024-08-10 11:06:19,230 - INFO - Model evaluation completed. Accuracy: 0.8796, AUC: 0.9363
+2024-08-10 11:06:19,230 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.83      0.90      0.87       154
+     Class 1       0.92      0.86      0.89       203
+
+    accuracy                           0.88       357
+   macro avg       0.88      0.88      0.88       357
+weighted avg       0.88      0.88      0.88       357
+
+2024-08-10 11:06:19,600 - WARNING - Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+2024-08-10 11:06:19,782 - INFO - Assets written to: models/neural_network_model/assets
+2024-08-10 11:06:19,817 - INFO - Model saved to models/neural_network_model
+2024-08-10 11:08:01,044 - INFO - Logging configured.
+2024-08-10 11:08:01,044 - INFO - Configuration loaded.
+2024-08-10 11:08:01,050 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 11:08:01,050 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:01,050 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:01,088 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7568fe15c6d0>
+2024-08-10 11:08:04,469 - INFO - Model training completed.
+2024-08-10 11:08:04,612 - INFO - Model evaluation completed. Accuracy: 0.8824, AUC: 0.9358
+2024-08-10 11:08:04,612 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.86      0.87      0.86       154
+     Class 1       0.90      0.89      0.90       203
+
+    accuracy                           0.88       357
+   macro avg       0.88      0.88      0.88       357
+weighted avg       0.88      0.88      0.88       357
+
+2024-08-10 11:08:04,996 - WARNING - Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+2024-08-10 11:08:05,173 - INFO - Assets written to: models/neural_network_model/assets
+2024-08-10 11:08:05,202 - INFO - Model saved to models/neural_network_model
+2024-08-10 11:08:14,962 - INFO - Logging configured.
+2024-08-10 11:08:14,962 - INFO - Configuration loaded.
+2024-08-10 11:08:14,968 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 11:08:14,968 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:14,968 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:15,005 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x79da0c97cbb0>
+2024-08-10 11:08:17,147 - INFO - Model training completed.
+2024-08-10 11:08:17,280 - INFO - Model evaluation completed. Accuracy: 0.8824, AUC: 0.9334
+2024-08-10 11:08:17,280 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.87      0.86      0.86       154
+     Class 1       0.89      0.90      0.90       203
+
+    accuracy                           0.88       357
+   macro avg       0.88      0.88      0.88       357
+weighted avg       0.88      0.88      0.88       357
+
+2024-08-10 11:08:17,655 - WARNING - Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+2024-08-10 11:08:17,835 - INFO - Assets written to: models/neural_network_model/assets
+2024-08-10 11:08:17,863 - INFO - Model saved to models/neural_network_model
+2024-08-10 11:08:30,977 - INFO - Logging configured.
+2024-08-10 11:08:30,978 - INFO - Configuration loaded.
+2024-08-10 11:08:30,983 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 11:08:30,983 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:30,983 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:31,020 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7820a1b239a0>
+2024-08-10 11:08:34,240 - INFO - Model training completed.
+2024-08-10 11:08:34,372 - INFO - Model evaluation completed. Accuracy: 0.8768, AUC: 0.9349
+2024-08-10 11:08:34,373 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.83      0.90      0.86       154
+     Class 1       0.92      0.86      0.89       203
+
+    accuracy                           0.88       357
+   macro avg       0.87      0.88      0.88       357
+weighted avg       0.88      0.88      0.88       357
+
+2024-08-10 11:08:34,741 - WARNING - Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+2024-08-10 11:08:34,912 - INFO - Assets written to: models/neural_network_model/assets
+2024-08-10 11:08:34,945 - INFO - Model saved to models/neural_network_model
+2024-08-10 11:08:58,558 - INFO - Logging configured.
+2024-08-10 11:08:58,558 - INFO - Configuration loaded.
+2024-08-10 11:08:58,564 - INFO - Data loaded successfully. Training samples: 833, Testing samples: 357
+2024-08-10 11:08:58,564 - DEBUG - Columns in X_train: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:58,564 - DEBUG - Columns in X_test: ['age', 'resting bp s', 'cholesterol', 'max heart rate', 'oldpeak', 'sex_0', 'sex_1', 'chest pain type_1', 'chest pain type_2', 'chest pain type_3', 'chest pain type_4', 'fasting blood sugar_0', 'fasting blood sugar_1', 'resting ecg_0', 'resting ecg_1', 'resting ecg_2', 'exercise angina_0', 'exercise angina_1', 'ST slope_0', 'ST slope_1', 'ST slope_2', 'ST slope_3']
+2024-08-10 11:08:58,601 - INFO - Best hyperparameters: <keras_tuner.src.engine.hyperparameters.hyperparameters.HyperParameters object at 0x7c9847706e30>
+2024-08-10 11:09:02,065 - INFO - Model training completed.
+2024-08-10 11:09:02,196 - INFO - Model evaluation completed. Accuracy: 0.8964, AUC: 0.9366
+2024-08-10 11:09:02,196 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+     Class 0       0.88      0.88      0.88       154
+     Class 1       0.91      0.91      0.91       203
+
+    accuracy                           0.90       357
+   macro avg       0.89      0.89      0.89       357
+weighted avg       0.90      0.90      0.90       357
+
+2024-08-10 11:09:02,562 - WARNING - Found untraced functions such as _update_step_xla while saving (showing 1 of 1). These functions will not be directly callable after loading.
+2024-08-10 11:09:02,734 - INFO - Assets written to: models/neural_network_model/assets
+2024-08-10 11:09:02,762 - INFO - Model saved to models/neural_network_model
