@@ -69,7 +69,7 @@ HDD/
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/AllenFLetcherAI/heart-disease-prediction.git
+    git clone https://github.com/AllenFletcherAI/heart-disease-prediction.git
     cd heart-disease-prediction
     ```
 
