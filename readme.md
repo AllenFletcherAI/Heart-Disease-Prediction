@@ -121,6 +121,9 @@ For any questions or feedback, please contact:
 **Allen Fletcher**  
 
 Email: allensimeonfletcher@gmail.com  
+
 GitHub: AllenFletcherAI; https://github.com/AllenFletcherAI
+
 LinkedIn: https://www.linkedin.com/in/allen-fletcher/
+
 ---
